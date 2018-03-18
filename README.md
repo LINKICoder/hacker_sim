@@ -33,15 +33,13 @@ exitfromhsconsole - exit HS Console
 
 * **Dmitriy Nelipa** - *Author* - [dimankiev](https://github.com/dimankiev)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
 ## License
 
 This project is licensed under the GNU License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Hacker Simulator.exe
-**DOWNLOAD GAME** - [From MEGA.NZ cloud] (https://goo.gl/3CmScX)
-* **VirusTotal scan** - (https://www.virustotal.com/#/file/0553a9ef8533e78cd2d3deac155b575d)
+[**Download**](https://goo.gl/3CmScX)
+[**VirusTotal scan**](https://www.virustotal.com/#/file/0553a9ef8533e78cd2d3deac155b575d)
 
 **Checksums :**
 ```
