@@ -40,8 +40,9 @@ See also the list of [contributors](https://github.com/your/project/contributors
 This project is licensed under the GNU License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Hacker Simulator.exe
-** DOWNLOAD GAME ** - [download here] (https://goo.gl/3CmScX)
-* **VirusTotal scan** - [link] (https://www.virustotal.com/#/file/0553a9ef8533e78cd2d3deac155b575d)
+** DOWNLOAD GAME ** - [From MEGA.NZ cloud] (https://goo.gl/3CmScX)
+* **VirusTotal scan** - (https://www.virustotal.com/#/file/0553a9ef8533e78cd2d3deac155b575d)
+
 **Checksums :**
 ```
 MD5 : 0553A9EF8533E78CD2D3DEAC155B575D
