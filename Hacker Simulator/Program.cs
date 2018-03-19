@@ -21,7 +21,7 @@ namespace Hacker_Simulator
                 Console.Title = "Hacker Simulator by dimankiev";
                 Console.ForegroundColor = ConsoleColor.Green;
                 Console.WriteLine(@"+----------------+------+");
-                Console.WriteLine(@"|HaCkEr SiMuLaToR| v.0.1|");
+                Console.WriteLine(@"|HaCkEr SiMuLaToR| v.0.2|");
                 Console.WriteLine(@"+----------------+------+");
                 Console.WriteLine(@"Enter 1 to start");
                 gamestart = Console.ReadLine();
@@ -120,7 +120,7 @@ namespace Hacker_Simulator
                 {
                     vfwlim = pscan + 10;
                     vavlim = psdk + 10;
-                    vblmax = pbl + (pbl / 10);
+                    vblmax = pbl + 1000 + (pbl / 10);
                     vblmin = pbl - (pbl / 10);
                     ipa = rnd.Next(0, 256);
                     ipb = rnd.Next(0, 256);
